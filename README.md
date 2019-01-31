@@ -9,3 +9,4 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 * * *
 * DTextPicture.js | 動態文字圖片生成插件<br>
 * AnotherNewGame.js | 添加新遊戲選項插件<br>
+* BalloonPlaySe.js | 氣泡圖標播放SE插件<br>
