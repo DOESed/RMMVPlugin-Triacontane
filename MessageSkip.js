@@ -33,7 +33,7 @@
 //=============================================================================
 
 /*:
- * @plugindesc MessageSkipPlugin
+ * @plugindesc 訊息播放快進插件
  * @author triacontane
  *
  * @param SkipKey
