@@ -45,11 +45,11 @@
  * @default 1
  *
  * @param hidden
- * @desc 默認情況下，隱藏選項。可以使用插件命令激活它。（ON/OFF）
+ * @desc 默認情況下，隱藏選項。可以使用插件命令控制。（ON/OFF）
  * @default OFF
  *
  * @param disable
- * @desc 默認情況下，禁用選擇選項。可以使用插件命令激活它。（ON/OFF）
+ * @desc 默認情況下，禁用選擇選項。可以使用插件命令控制。（ON/OFF）
  * @default OFF
  *
  * @param file_load
