@@ -12,4 +12,20 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 * BalloonPlaySe.js | 氣泡圖標播放SE插件<br>
 * MessageSkip.js | 訊息播放快進插件<br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [回到頂部](#readme)
