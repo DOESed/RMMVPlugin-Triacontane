@@ -12,10 +12,10 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 * BalloonPlaySe.js | 氣泡圖標播放SE插件<br>
 * MessageSkip.js | 訊息播放快進插件<br>
 
-| 插件名稱       | 中文名稱       |
-| ------------- | ------------- |
-| DTextPicture.js  | 動態文字圖片生成插件  |
-| AnotherNewGame.js  | 添加新遊戲選項插件  |
+| 插件名稱           | 中文名稱          |
+| ----------------- | ----------------- |
+| DTextPicture.js   | 動態文字圖片生成插件|
+| AnotherNewGame.js | 添加新遊戲選項插件  |
 
 
 [回到頂部](#readme)
