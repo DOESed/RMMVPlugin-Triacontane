@@ -6,7 +6,6 @@ Translation plugin to Chinese.
 <br>
 Twitter @m03271996<br>
 Facebook @reirisgame<br>
-<br>
 * * *
 * DTextPicture.js | 動態文字圖片生成插件<br>
 * AnotherNewGame.js | 添加新遊戲選項插件<br>
