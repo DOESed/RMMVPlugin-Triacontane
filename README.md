@@ -14,6 +14,7 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | AnotherNewGame.js     | [添加新遊戲選項插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/AnotherNewGame.js)     |
 | BalloonPlaySe.js     | [氣泡圖標播放SE插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/BalloonPlaySe.js)     |
 | MessageSkip.js    | [訊息播放快進插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MessageSkip.js)     |
+| TitleImageChange.js    | [標題畫面變更插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/TitleImageChange.js)     |
 
 
 [回到頂部](#readme)
