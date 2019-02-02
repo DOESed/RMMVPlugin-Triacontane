@@ -17,6 +17,8 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | TitleImageChange.js    | [標題畫面變更插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/TitleImageChange.js)     |
 | SideEffectSkill.js    | [技能附加作用插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/SideEffectSkill.js)     |
 | MasterVolumeOption.js   | [主音量插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MasterVolumeOption.js)     |
+| MessageWindowHidden.js   | [一時關閉訊息框插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MessageWindowHidden.js)     |
+| CustomizeMaxSaveFile.js   | [最大存檔數量變更插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/CustomizeMaxSaveFile.js)     |
 
 
 [回到頂部](#readme)
