@@ -21,6 +21,7 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | CustomizeMaxSaveFile.js   | [最大存檔數量變更插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/CustomizeMaxSaveFile.js)     |
 | BattleRecord.js   | [戰鬥統計插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/BattleRecord.js)     |
 | MessageSpeedCustomize.js   | [訊息速度調整插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MessageSpeedCustomize.js)     |
+| UseOnlyOneSave.js   | [單一存檔插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/UseOnlyOneSave.js)     |
 
 
 [回到頂部](#readme)
