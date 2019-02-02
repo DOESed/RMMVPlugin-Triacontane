@@ -19,6 +19,7 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | MasterVolumeOption.js   | [主音量插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MasterVolumeOption.js)     |
 | MessageWindowHidden.js   | [一時關閉訊息框插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MessageWindowHidden.js)     |
 | CustomizeMaxSaveFile.js   | [最大存檔數量變更插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/CustomizeMaxSaveFile.js)     |
+| BattleRecord.js   | [戰鬥統計插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/BattleRecord.js)     |
 
 
 [回到頂部](#readme)
