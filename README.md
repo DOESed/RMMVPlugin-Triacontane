@@ -22,6 +22,7 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | BattleRecord.js   | [戰鬥統計插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/BattleRecord.js)     |
 | MessageSpeedCustomize.js   | [訊息速度調整插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MessageSpeedCustomize.js)     |
 | UseOnlyOneSave.js   | [單一存檔插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/UseOnlyOneSave.js)     |
+| TitleNewGameOnly.js   | [僅有開始遊戲插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/TitleNewGameOnly.js)     |
 
 
 [回到頂部](#readme)
