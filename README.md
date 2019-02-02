@@ -20,6 +20,7 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | MessageWindowHidden.js   | [一時關閉訊息框插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MessageWindowHidden.js)     |
 | CustomizeMaxSaveFile.js   | [最大存檔數量變更插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/CustomizeMaxSaveFile.js)     |
 | BattleRecord.js   | [戰鬥統計插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/BattleRecord.js)     |
+| MessageSpeedCustomize.js   | [訊息速度調整插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MessageSpeedCustomize.js)     |
 
 
 [回到頂部](#readme)
