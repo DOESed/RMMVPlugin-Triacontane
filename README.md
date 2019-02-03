@@ -25,6 +25,7 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | TitleNewGameOnly.js   | [僅有開始遊戲插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/TitleNewGameOnly.js)     |
 | DescriptionExtend.js   | [說明擴張插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/DescriptionExtend.js)     |
 | PauseSignToTextEnd.js   | [暫停圖示顯示結尾插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/PauseSignToTextEnd.js)     |
+| MessageWindowPopup.js   | [氣泡呼出窗口插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MessageWindowPopup.js)     |
 
 
 [回到頂部](#readme)
