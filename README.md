@@ -28,6 +28,7 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | MessageWindowPopup.js   | [氣泡呼出窗口插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MessageWindowPopup.js)     |
 | WindowBlinkStop.js   | [停止窗口選擇閃爍插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/WindowBlinkStop.js)     |
 | ItemNameEscape.js   | [項目名稱擴張控制字元使用插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/ItemNameEscape.js)     |
+| KillBonus.js   | [擊破獎勵插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/KillBonus.js)     |
 
 
 [回到頂部](#readme)
