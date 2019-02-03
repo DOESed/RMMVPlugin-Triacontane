@@ -26,6 +26,7 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | DescriptionExtend.js   | [說明擴張插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/DescriptionExtend.js)     |
 | PauseSignToTextEnd.js   | [暫停圖示顯示結尾插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/PauseSignToTextEnd.js)     |
 | MessageWindowPopup.js   | [氣泡呼出窗口插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/MessageWindowPopup.js)     |
+| WindowBlinkStop.js   | [停止窗口選擇閃爍插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/WindowBlinkStop.js)     |
 
 
 [回到頂部](#readme)
