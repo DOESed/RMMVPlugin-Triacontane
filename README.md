@@ -31,6 +31,6 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | KillBonus.js   | [擊破獎勵插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/KillBonus.js)     |
 | NewGameSe.js   | [開始遊戲專用 SE 插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/NewGameSe.js)     |
 | CustomizeConfigItem.js   | [設置畫面追加任意項目插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/CustomizeConfigItem.js)     |
-
+| DirectivityShake.js   | [方向震動插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/DirectivityShake.js)     |
 
 [回到頂部](#readme)
