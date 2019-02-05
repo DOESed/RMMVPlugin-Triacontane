@@ -35,5 +35,6 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | AdditionalDescription.js   | [幫助說明追加插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/AdditionalDescription.js)     |
 | SystemSoundCustomize.js   | [系統 SE 變更插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/SystemSoundCustomize.js)     |
 | PlayerShiftTurn.js   | [玩家轉身插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/PlayerShiftTurn.js)     |
+| DWindow.js   | [動態窗口生成插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/DWindow.js)     |
 
 [回到頂部](#readme)
