@@ -39,5 +39,6 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | NpcFollower.js   | [NPC跟隨插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/NpcFollower.js)     |
 | ParallelBgs.js   | [BGS 並行播放插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/ParallelBgs.js)     |
 | RetryBattle.js   | [再次戰鬥插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/RetryBattle.js)     |
+| CustomizeConfigDefault.js   | [設置預設值設定插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/CustomizeConfigDefault.js)     |
 
 [回到頂部](#readme)
