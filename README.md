@@ -38,5 +38,6 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | DWindow.js   | [動態窗口生成插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/DWindow.js)     |
 | NpcFollower.js   | [NPC跟隨插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/NpcFollower.js)     |
 | ParallelBgs.js   | [BGS 並行播放插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/ParallelBgs.js)     |
+| RetryBattle.js   | [再次戰鬥插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/RetryBattle.js)     |
 
 [回到頂部](#readme)
