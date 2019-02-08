@@ -40,5 +40,7 @@ Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 | ParallelBgs.js   | [BGS 並行播放插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/ParallelBgs.js)     |
 | RetryBattle.js   | [再次戰鬥插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/RetryBattle.js)     |
 | CustomizeConfigDefault.js   | [設置預設值設定插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/CustomizeConfigDefault.js)     |
+| CommandIcon.js   | [項目追加圖標插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/CommandIcon.js)     |
+| NobleMushroom.js   | [視覺小說集合插件](https://github.com/mr099985/RMMVPlugin-Triacontane/blob/master/NobleMushroom.js)     |
 
 [回到頂部](#readme)
